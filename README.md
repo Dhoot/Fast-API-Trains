@@ -71,7 +71,7 @@ Head over to the [Uvicorn Deployment](https://www.uvicorn.org/deployment/) docum
 
 ## Authors
 
-* **Ronak Dhoot** - *Initial work* - [dhoot](https://github.com/dhoot)
+* **R Dhoot** - *Initial work* - [dhoot](https://github.com/dhoot)
 
 ## License
 
